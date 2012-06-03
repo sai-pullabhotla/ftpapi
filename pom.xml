@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.myjavaworld</groupId>
 	<artifactId>ftpapi</artifactId>
-	<version>3.0.0-SNAPSHOT</version>
+	<version>3.0.0</version>
 	<name>ftpapi</name>
 	<description>Secure FTP API for Java</description>
 	<url>http://www.jMethods.com</url>
@@ -28,7 +27,7 @@
 	<scm>
 		<connection>scm:git:https://spullabhotla@github.com/ftpapi.git</connection>
 		<developerConnection>scm:git:git@github.com:spullabhotla/ftpapi.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>ftpapi-3.0.0</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
