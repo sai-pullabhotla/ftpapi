@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.myjavaworld</groupId>
 	<artifactId>ftpapi</artifactId>
-	<version>3.0.0</version>
+	<version>3.0.1-SNAPSHOT</version>
 	<name>ftpapi</name>
 	<description>Secure FTP API for Java</description>
 	<url>http://www.jMethods.com</url>
@@ -27,7 +27,7 @@
 	<scm>
 		<connection>scm:git:https://spullabhotla@github.com/ftpapi.git</connection>
 		<developerConnection>scm:git:git@github.com:spullabhotla/ftpapi.git</developerConnection>
-		<tag>ftpapi-3.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
